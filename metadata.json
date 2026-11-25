@@ -1,0 +1,6 @@
+{
+  "name": "Threadline Analytics",
+  "description": "Interactive multi-view sales visualization dashboard for exploring apparel order revenue, product performance, payment mixes, and basket patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
